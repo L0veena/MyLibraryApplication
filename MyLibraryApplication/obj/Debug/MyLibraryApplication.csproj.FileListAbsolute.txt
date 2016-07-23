@@ -1,0 +1,2 @@
+C:\CSharpProjects\MyLibraryApplication\MyLibraryApplication\bin\Debug\MyLibraryApplication.exe.config
+C:\GitHub\MyLibraryApplication\MyLibraryApplication\bin\Debug\MyLibraryApplication.exe.config
